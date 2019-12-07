@@ -1,0 +1,77 @@
+/* Main CSS Start */
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+body{
+	font-family: ;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0 0 15px;
+	font-weight: 700;
+}
+a:hover{
+	text-decoration: none;
+}
+/* Main CSS Stop */
+/* Service Section Start */
+.service-box-bg-1 {
+	background-image: url(../img/service1.jpg);
+}
+.service-box-bg-2 {
+	background-image: url(../img/service2.jpg);
+}
+.service-box-bg-3 {
+	background-image: url(../img/service3.jpg);
+}
+.section-padding {
+  padding: 80px 0;
+}
+.section-heading {
+  text-align: center;
+  margin-bottom: 70px;
+}
+.single-serivice-box {
+  border: 1px solid #ebebeb;
+  text-align: center;
+}
+.service-box-bg {
+  background-color: #ddd;
+  height: 200px;
+  position: relative;
+}
+.service-box-bg h2 {
+  background-color: #dd5044;
+  color: #fff;
+  font-size: 23px;
+  text-align: center;
+  font-weight: 400;
+  padding: 15px;
+  position: absolute;
+  left: 8%;
+  width: 85%;
+  bottom: -26px;
+  margin: 0;
+}
+.service-box-content {
+  padding: 30px;
+  padding-top: 50px;
+  line-height: 30px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.service-box-content p {
+  margin: 0;
+}
+.service-readmore {
+	display: inline-block;
+	color: #333;
+	font-size: 18px;
+	font-weight: 700;
+	margin-top: 15px;
+}
+/* Service Section Stop */
